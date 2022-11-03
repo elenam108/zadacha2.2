@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\ДЗ семинары\C#_DomZ\DomZ13\bin\Debug\net6.0\DomZ13.exe
+C:\Users\user\Desktop\ДЗ семинары\C#_DomZ\DomZ13\bin\Debug\net6.0\DomZ13.deps.json
+C:\Users\user\Desktop\ДЗ семинары\C#_DomZ\DomZ13\bin\Debug\net6.0\DomZ13.runtimeconfig.json
+C:\Users\user\Desktop\ДЗ семинары\C#_DomZ\DomZ13\bin\Debug\net6.0\DomZ13.dll
+C:\Users\user\Desktop\ДЗ семинары\C#_DomZ\DomZ13\bin\Debug\net6.0\DomZ13.pdb
+C:\Users\user\Desktop\ДЗ семинары\C#_DomZ\DomZ13\obj\Debug\net6.0\DomZ13.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\ДЗ семинары\C#_DomZ\DomZ13\obj\Debug\net6.0\DomZ13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\ДЗ семинары\C#_DomZ\DomZ13\obj\Debug\net6.0\DomZ13.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\ДЗ семинары\C#_DomZ\DomZ13\obj\Debug\net6.0\DomZ13.AssemblyInfo.cs
+C:\Users\user\Desktop\ДЗ семинары\C#_DomZ\DomZ13\obj\Debug\net6.0\DomZ13.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ДЗ семинары\C#_DomZ\DomZ13\obj\Debug\net6.0\DomZ13.dll
+C:\Users\user\Desktop\ДЗ семинары\C#_DomZ\DomZ13\obj\Debug\net6.0\refint\DomZ13.dll
+C:\Users\user\Desktop\ДЗ семинары\C#_DomZ\DomZ13\obj\Debug\net6.0\DomZ13.pdb
+C:\Users\user\Desktop\ДЗ семинары\C#_DomZ\DomZ13\obj\Debug\net6.0\DomZ13.genruntimeconfig.cache
+C:\Users\user\Desktop\ДЗ семинары\C#_DomZ\DomZ13\obj\Debug\net6.0\ref\DomZ13.dll
